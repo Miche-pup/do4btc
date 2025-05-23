@@ -1,0 +1,9 @@
+[build]
+command = "npm run build"
+node_version = "20.11.1"
+
+[build.upload]
+format = "service-worker"
+
+[site]
+bucket = ".next" 
