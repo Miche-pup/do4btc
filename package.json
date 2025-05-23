@@ -10,15 +10,17 @@
   },
   "dependencies": {
     "@supabase/auth-helpers-nextjs": "^0.8.7",
-    "@supabase/supabase-js": "^2.39.3",
+    "@supabase/supabase-js": "^2.49.8",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "autoprefixer": "latest",
     "next": "14.1.0",
+    "opennode": "^1.5.0",
     "postcss": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-qr-code": "^2.0.15",
     "tailwind-merge": "^2.2.1",
     "tailwindcss": "latest",
     "typescript": "latest"
